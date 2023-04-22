@@ -1,0 +1,155 @@
+.top_container{
+    background-color:#EAF6F6;
+    position:relative;
+    padding-top:100px;
+    margin:10px auto 10px auto;
+}
+
+body{
+    font-family: 'Merriweather', serif;
+    text-align:center; 
+    margin:0px;
+    color: #40514E;
+}
+
+h1{
+    font-size:90px;
+    margin:50px auto 0px auto ;
+    font-family: 'Sacramento', cursive;
+    color:#66BFBF;
+    line-height:2;
+
+}
+
+h2{
+    font-family: 'Merriweather', serif;
+    font-size:2.5rem;
+    color:#66BFBF;
+    font-weight:normal;
+   
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#66BFBF;
+   
+}
+
+
+.up_c{
+    position:absolute;
+    top: 40px;
+    right:300px;
+}
+
+.lo_c{
+    position:absolute;
+    bottom:280px;
+    left:250px;
+}
+
+a{
+   
+    color:#11999E;
+    margin:0 10px 0 20px;
+    text-decoration: none;;
+}
+
+a:hover{
+    color:#EAF6F6;
+}
+
+.skill-row{
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+   
+    
+}
+
+.Ist{
+    width:25%;
+    margin-right: 30px;
+    float:left;
+}
+.IInd{
+    
+    width:25%;
+    margin-left:30px;
+    float:right; 
+
+    
+}
+
+.logo{
+
+    width:25%;
+    
+}
+
+hr{
+    border-width:8px;
+    width:5%;
+    border-style:none;
+    border-top-style:dotted;
+    border-color: #EAF6F6;
+    margin:100px auto 100px auto;
+  
+}
+
+.bottom-container{
+    margin-top:50px;
+    background-color: #66BFBF;
+    height:100px;
+    padding:  50px 0 20px  0;
+    
+}
+
+.last{
+    color:#EAF6F6;
+    padding:20px 0 20px 0;
+    font-size: 0.75rem;
+}
+
+.btn {
+    background:  #11cdd4;
+    background-image: -webkit-linear-gradient(top,  #11cdd4,  #11999e);
+    background-image: -moz-linear-gradient(top,  #11cdd4,  #11999e);
+    background-image: -ms-linear-gradient(top,  #11cdd4,  #11999e);
+    background-image: -o-linear-gradient(top,  #11cdd4,  #11999e);
+    background-image: linear-gradient(to bottom,  #11cdd4,  #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+  p{
+    line-height: 2;
+    width:30%;
+    margin:0 auto 20px auto;
+    
+    
+  }
+
+.Ist_heading{
+    margin:0 265px 10px;
+}
+
+.IInd_heading{
+    margin:0 265px 10px;
+}
